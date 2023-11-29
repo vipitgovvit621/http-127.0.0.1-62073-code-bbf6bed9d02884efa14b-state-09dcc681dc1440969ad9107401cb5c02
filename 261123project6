@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./static/styles/style.css">
+</head>
+
+<body>
+    <div class="header">
+        <h1>заголовок</h1>
+        <div class="navigate">
+            <ul>
+                <li><a href="#">ссылка</a></li>
+                <li><a href="#">ссылка</a></li>
+                <li><a href="#">ссылка</a></li>
+                <li><a href="#">ссылка</a></li>
+                <li><a href="#">ссылка</a></li>
+
+            </ul>
+        </div>
+    </div>
+
+
+    <div class="main">
+
+
+
+        <div class="leftside">
+            <div class="leftblok">
+                <h3>левый блок 1</h3>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente quia a incidunt. Repellat
+                    repudiandae, soluta excepturi eum, assumenda consectetur quos, dolore nostrum delectus consequatur
+                    tenetur nobis neque necessitatibus perferendis officia.</p>
+            </div>
+
+        </div>
+
+        <div class="center">
+            <h3>Текст статьи</h3>
+            <div class="centerblock">
+                <p>центральный блок 1 Lorem ipsum dolor sit amet consectetur adipisicing elit. Est libero illum minus
+                    vitae, nostrum porro consectetur nobis laboriosam, fuga ducimus iusto similique omnis aliquam
+                    dolores
+                    natus accusamus, ut officiis quos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam
+                    quibusdam quas earum commodi architecto nostrum id enim, assumenda tenetur. Eveniet aspernatur
+                    repudiandae nobis consequatur placeat praesentium, debitis sequi. Dicta, rem!</p>
+
+            </div>
+
+            <div class="imgconteiner">
+                <figure>
+                    <img src="./static/images/abandonedstation.jpg" alt="#">
+                    <figcaption>
+                        <h3>заброшеннная станция</h3>
+
+                    </figcaption>
+
+                </figure>
+
+            </div>
+            <div class="centerblock">
+                <p> центральный блок 1 Lorem ipsum dolor sit amet consectetur adipisicing elit. Est libero illum minus
+                    vitae, nostrum porro consectetur nobis laboriosam, fuga ducimus iusto similique omnis aliquam
+                    dolores
+                    natus accusamus, ut officiis quos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam
+                    quibusdam quas earum commodi architecto nostrum id enim, assumenda tenetur. Eveniet aspernatur
+                    repudiandae nobis consequatur placeat praesentium, debitis sequi. Dicta, rem!</p>
+            </div>
+            <div class="centerblock">
+                <p> центральный блок 1 Lorem ipsum dolor sit amet consectetur adipisicing elit. Est libero illum minus
+                    vitae, nostrum porro consectetur nobis laboriosam, fuga ducimus iusto similique omnis aliquam
+                    dolores
+                    natus accusamus, ut officiis quos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam
+                    quibusdam quas earum commodi architecto nostrum id enim, assumenda tenetur. Eveniet aspernatur
+                    repudiandae nobis consequatur placeat praesentium, debitis sequi. Dicta, rem!</p>
+            </div>
+            <div class="centerblock">
+                <p> центральный блок 1 Lorem ipsum dolor sit amet consectetur adipisicing elit. Est libero illum minus
+                    vitae, nostrum porro consectetur nobis laboriosam, fuga ducimus iusto similique omnis aliquam
+                    dolores
+                    natus accusamus, ut officiis quos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam
+                    quibusdam quas earum commodi architecto nostrum id enim, assumenda tenetur. Eveniet aspernatur
+                    repudiandae nobis consequatur placeat praesentium, debitis sequi. Dicta, rem!</p>
+            </div>
+            <div class="centerblock">
+                <p> центральный блок 1 Lorem ipsum dolor sit amet consectetur adipisicing elit. Est libero illum minus
+                    vitae, nostrum porro consectetur nobis laboriosam, fuga ducimus iusto similique omnis aliquam
+                    dolores
+                    natus accusamus, ut officiis quos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam
+                    quibusdam quas earum commodi architecto nostrum id enim, assumenda tenetur. Eveniet aspernatur
+                    repudiandae nobis consequatur placeat praesentium, debitis sequi. Dicta, rem!</p>
+            </div>
+            <div class="centerblock">
+                <p> центральный блок 1 Lorem ipsum dolor sit amet consectetur adipisicing elit. Est libero illum minus
+                    vitae, nostrum porro consectetur nobis laboriosam, fuga ducimus iusto similique omnis aliquam
+                    dolores
+                    natus accusamus, ut officiis quos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam
+                    quibusdam quas earum commodi architecto nostrum id enim, assumenda tenetur. Eveniet aspernatur
+                    repudiandae nobis consequatur placeat praesentium, debitis sequi. Dicta, rem!</p>
+            </div>
+
+
+        </div>
+
+
+
+        <div class="rigthside">
+            <div class="rightblock">
+                <h3>Содержание</h3>
+                <ul>
+                    <li><a href="#">ссылка</a></li>
+                    <li><a href="#">ссылка</a></li>
+                    <li><a href="#">ссылка</a></li>
+                    <li><a href="#">ссылка</a></li>
+                    <li><a href="#">ссылка</a></li>
+                    <li><a href="#">
+                            <vk class="com">
+                        </a></li>
+                    <li><a href="#">длинный текст ссылки</a></li>
+                </ul>
+            </div>
+            <div class="rightblock">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam delectus sit aliquam error quos
+                    similique velit distinctio, repellat rerum itaque eligendi repudiandae iure illo reprehenderit
+                    deleniti! Deserunt labore minima expedita!</p>
+            </div>
+
+        </div>
+
+
+
+    </div>
+    <div class="footer">
+        <h1>подвал страницы</h1>
+        <table>
+            <caption>
+                ila iv
+            </caption>
+
+            ...
+        </table>
+
+    </div>
+    <div>
+        <footer>world</footer>
+    </div>
+    <!DOCTYPE html>
+    <html lang="ru">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <link rel="stylesheet" href="./static/styles/style.css">
+    </head>
+
+    <body>
+        <div class="header">
+            <h1>заголовок</h1>
+            <div class="navigate">
+                <ul>
+                    <li><a href="#">ссылка</a></li>
+                    <li><a href="#">ссылка</a></li>
+                    <li><a href="#">ссылка</a></li>
+                    <li><a href="#">ссылка</a></li>
+                    <li><a href="#">ссылка</a></li>
+
+                </ul>
+            </div>
+        </div>
+
+
+        <div class="main">
+
+
+
+            <div class="leftside">
+                <div class="leftblok">
+                    <h3>левый блок 1</h3>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente quia a incidunt. Repellat
+                        repudiandae, soluta excepturi eum, assumenda consectetur quos, dolore nostrum delectus
+                        consequatur
+                        tenetur nobis neque necessitatibus perferendis officia.</p>
+                </div>
+
+            </div>
+
+            <div class="center">
+                <h3>Текст статьи</h3>
+                <div class="centerblock">
+                    <p>центральный блок 1 Lorem ipsum dolor sit amet consectetur adipisicing elit. Est libero illum
+                        minus
+                        vitae, nostrum porro consectetur nobis laboriosam, fuga ducimus iusto similique omnis aliquam
+                        dolores
+                        natus accusamus, ut officiis quos. Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Numquam
+                        quibusdam quas earum commodi architecto nostrum id enim, assumenda tenetur. Eveniet aspernatur
+                        repudiandae nobis consequatur placeat praesentium, debitis sequi. Dicta, rem!</p>
+
+                </div>
+
+                <div class="imgconteiner">
+                    <figure>
+                        <img src="./static/images/abandonedstation.jpg" alt="#">
+                        <figcaption>
+                            <h3>заброшеннная станция</h3>
+
+                        </figcaption>
+
+                    </figure>
+
+                </div>
+                <div class="centerblock">
+                    <p> центральный блок 1 Lorem ipsum dolor sit amet consectetur adipisicing elit. Est libero illum
+                        minus
+                        vitae, nostrum porro consectetur nobis laboriosam, fuga ducimus iusto similique omnis aliquam
+                        dolores
+                        natus accusamus, ut officiis quos. Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Numquam
+                        quibusdam quas earum commodi architecto nostrum id enim, assumenda tenetur. Eveniet aspernatur
+                        repudiandae nobis consequatur placeat praesentium, debitis sequi. Dicta, rem!</p>
+                </div>
+                <div class="centerblock">
+                    <p> центральный блок 1 Lorem ipsum dolor sit amet consectetur adipisicing elit. Est libero illum
+                        minus
+                        vitae, nostrum porro consectetur nobis laboriosam, fuga ducimus iusto similique omnis aliquam
+                        dolores
+                        natus accusamus, ut officiis quos. Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Numquam
+                        quibusdam quas earum commodi architecto nostrum id enim, assumenda tenetur. Eveniet aspernatur
+                        repudiandae nobis consequatur placeat praesentium, debitis sequi. Dicta, rem!</p>
+                </div>
+                <div class="centerblock">
+                    <p> центральный блок 1 Lorem ipsum dolor sit amet consectetur adipisicing elit. Est libero illum
+                        minus
+                        vitae, nostrum porro consectetur nobis laboriosam, fuga ducimus iusto similique omnis aliquam
+                        dolores
+                        natus accusamus, ut officiis quos. Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Numquam
+                        quibusdam quas earum commodi architecto nostrum id enim, assumenda tenetur. Eveniet aspernatur
+                        repudiandae nobis consequatur placeat praesentium, debitis sequi. Dicta, rem!</p>
+                </div>
+                <div class="centerblock">
+                    <p> центральный блок 1 Lorem ipsum dolor sit amet consectetur adipisicing elit. Est libero illum
+                        minus
+                        vitae, nostrum porro consectetur nobis laboriosam, fuga ducimus iusto similique omnis aliquam
+                        dolores
+                        natus accusamus, ut officiis quos. Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Numquam
+                        quibusdam quas earum commodi architecto nostrum id enim, assumenda tenetur. Eveniet aspernatur
+                        repudiandae nobis consequatur placeat praesentium, debitis sequi. Dicta, rem!</p>
+                </div>
+                <div class="centerblock">
+                    <p> центральный блок 1 Lorem ipsum dolor sit amet consectetur adipisicing elit. Est libero illum
+                        minus
+                        vitae, nostrum porro consectetur nobis laboriosam, fuga ducimus iusto similique omnis aliquam
+                        dolores
+                        natus accusamus, ut officiis quos. Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Numquam
+                        quibusdam quas earum commodi architecto nostrum id enim, assumenda tenetur. Eveniet aspernatur
+                        repudiandae nobis consequatur placeat praesentium, debitis sequi. Dicta, rem!</p>
+                </div>
+
+
+            </div>
+
+
+
+            <div class="rigthside">
+                <div class="rightblock">
+                    <h3>Содержание</h3>
+                    <ul>
+                        <li><a href="#">ссылка</a></li>
+                        <li><a href="#">ссылка</a></li>
+                        <li><a href="#">ссылка</a></li>
+                        <li><a href="#">ссылка</a></li>
+                        <li><a href="#">ссылка</a></li>
+                        <li><a href="#">ссылка</a></li>
+                        <li><a href="#">длинный текст ссылки</a></li>
+                    </ul>
+                </div>
+                <div class="rightblock">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam delectus sit aliquam error quos
+                        similique velit distinctio, repellat rerum itaque eligendi repudiandae iure illo reprehenderit
+                        deleniti! Deserunt labore minima expedita!</p>
+                </div>
+
+            </div>
+
+
+
+        </div>
+        <div class="footer">
+            <h1>подвал страницы</h1>
+            <table>
+                <caption>
+                    ila iv
+                </caption>
+            </table>
+
+        </div>
+        <p> ivannikov 631</p>
+        <div style="width: 100%; height: 100%; position: relative; transform: rotate(-180deg); transform-origin: 0 0">
+            <div
+                style="width: 18.46px; height: 18.46px; left: -0px; top: 0px; position: absolute; transform: rotate(-180deg); transform-origin: 0 0; background: #FF7152">
+            </div>
+            <div
+                style="width: 18.46px; height: 18.46px; left: -55.38px; top: -0px; position: absolute; transform: rotate(-180deg); transform-origin: 0 0; opacity: 0.10; background: black">
+            </div>
+            <div
+                style="width: 18.46px; height: 18.46px; left: -110.77px; top: -0px; position: absolute; transform: rotate(-180deg); transform-origin: 0 0; opacity: 0.10; background: black">
+            </div>
+            <div
+                style="width: 18.46px; height: 18.46px; left: -166.15px; top: -0px; position: absolute; transform: rotate(-180deg); transform-origin: 0 0; opacity: 0.10; background: black">
+            </div>
+            <div
+                style="width: 18.46px; height: 18.46px; left: -221.54px; top: 0px; position: absolute; transform: rotate(-180deg); transform-origin: 0 0; opacity: 0.10; background: black">
+            </div>
+            <div
+                style="width: 18.46px; height: 18.46px; left: 0px; top: 55.38px; position: absolute; transform: rotate(-180deg); transform-origin: 0 0; opacity: 0.10; background: black">
+            </div>
+            <div
+                style="width: 18.46px; height: 18.46px; left: -55.38px; top: 55.38px; position: absolute; transform: rotate(-180deg); transform-origin: 0 0; opacity: 0.10; background: black">
+            </div>
+            <div
+                style="width: 18.46px; height: 18.46px; left: -110.77px; top: 55.38px; position: absolute; transform: rotate(-180deg); transform-origin: 0 0; opacity: 0.10; background: black">
+            </div>
+            <div
+                style="width: 18.46px; height: 18.46px; left: -166.15px; top: 55.38px; position: absolute; transform: rotate(-180deg); transform-origin: 0 0; opacity: 0.10; background: black">
+            </div>
+            <div
+                style="width: 18.46px; height: 18.46px; left: -221.54px; top: 55.38px; position: absolute; transform: rotate(-180deg); transform-origin: 0 0; opacity: 0.10; background: black">
+            </div>
+            <div
+                style="width: 18.46px; height: 18.46px; left: 0px; top: 110.77px; position: absolute; transform: rotate(-180deg); transform-origin: 0 0; opacity: 0.10; background: black">
+            </div>
+            <div
+                style="width: 18.46px; height: 18.46px; left: -55.38px; top: 110.77px; position: absolute; transform: rotate(-180deg); transform-origin: 0 0; opacity: 0.10; background: black">
+            </div>
+            <div
+                style="width: 18.46px; height: 18.46px; left: -110.77px; top: 110.77px; position: absolute; transform: rotate(-180deg); transform-origin: 0 0; background: #00A78E">
+            </div>
+            <div
+                style="width: 18.46px; height: 18.46px; left: -166.15px; top: 110.77px; position: absolute; transform: rotate(-180deg); transform-origin: 0 0; opacity: 0.10; background: black">
+            </div>
+            <div
+                style="width: 18.46px; height: 18.46px; left: -221.54px; top: 110.77px; position: absolute; transform: rotate(-180deg); transform-origin: 0 0; opacity: 0.10; background: black">
+            </div>
+            <div
+                style="width: 18.46px; height: 18.46px; left: -55.38px; top: 166.15px; position: absolute; transform: rotate(-180deg); transform-origin: 0 0; opacity: 0.10; background: black">
+            </div>
+            <div
+                style="width: 18.46px; height: 18.46px; left: -110.77px; top: 166.15px; position: absolute; transform: rotate(-180deg); transform-origin: 0 0; opacity: 0.10; background: black">
+            </div>
+            <div
+                style="width: 18.46px; height: 18.46px; left: -166.15px; top: 166.15px; position: absolute; transform: rotate(-180deg); transform-origin: 0 0; opacity: 0.10; background: black">
+            </div>
+            <div
+                style="width: 18.46px; height: 18.46px; left: -221.54px; top: 166.15px; position: absolute; transform: rotate(-180deg); transform-origin: 0 0; opacity: 0.10; background: black">
+            </div>
+            <div
+                style="width: 18.46px; height: 18.46px; left: -110.77px; top: 221.54px; position: absolute; transform: rotate(-180deg); transform-origin: 0 0; opacity: 0.10; background: black">
+            </div>
+            <div
+                style="width: 18.46px; height: 18.46px; left: -166.15px; top: 221.54px; position: absolute; transform: rotate(-180deg); transform-origin: 0 0; opacity: 0.10; background: black">
+            </div>
+            <div
+                style="width: 18.46px; height: 18.46px; left: -221.54px; top: 221.54px; position: absolute; transform: rotate(-180deg); transform-origin: 0 0; opacity: 0.10; background: black">
+            </div>
+        </div>
+        <!-- tested -->
+
+
+
+    </body>
+
+
+
+    <!-- C:\Users\Пользователь\Desktop\261123project6\index.html -->
+
+    </html>
+    <!-- C:\Users\Пользователь\Desktop\261123project6\index.html -->
